@@ -4,15 +4,12 @@ If you are reading this, I have turned into worm food and I miss you already. Th
 
 Contact the following friends and family directly before announcing it. Open up my laptop, create a note, then copy/paste it to:
 
-* 
-* WhatsApp: Aaron
+* Google Voice: 
 * Facebook: Dad, dad’s phone number is in my phone too
-* Skype: Peter
 * Discord: Look in my chat list and message anyone I've talked about recently. So far, it's David, Jenn and Claudette.
-* Google chat or email: Melanie
 * Instagram or email: JoeB
 
-Then let ppl on Twitter, Facebook and Instagram know.
+Then let people on Facebook and Instagram know.
 
 ## Tech
 
@@ -23,7 +20,7 @@ This section covers the topics that will help you access my emails and website l
 As you know, I primarily use kev.wells@gmail.com. You can login through my phone or desktop. Keep my phone and desktop until you haven't used them for one year just in case a 2FA issue comes up.
 
 * kev.wells@gmail.com – password is stored in BitWarden
-* purebishop@hotmail.com - password is stored in BitWarden
+* purebishop@hotmail.com – password is stored in BitWarden
 * kevin@kwellsphoto.com – all emails from this get forwarded to kev.wells@gmail.com
 * kevin@vctapped.com – all emails from this get forwarded to kev.wells@gmail.com
 
@@ -93,41 +90,36 @@ Considering that, you might want to ask Michelle to setup the ISP's built-in wif
 
 ### Social Media accounts
 
-* Everything can be logged in with KeePass + the multi-factor apps on my phone (Authy or Microsoft Authenticator)
-* Don’t close Twitter for a few years
-  * If you sell my Twitter, make it worth your time, like 1 million then ask a friend to delete all my old posts
-  * This will probably require some sort of service because Twitter makes things hard
-* Export and close FB, I only stayed there for Niki's memorial page and my business page anyway
-* Instagram may be enjoyable for you to look back on since it's just us on vacation :kiss:
+* Everything can be logged in with BitWarden + the multi-factor apps on my phone (Authy or Microsoft Authenticator)
+* Leave FB up if you want
+  * Transfer VCTapped over to someone local (Christian)
+  * Transfer Camarillo Foodies over to one of the other admins
+* Leave main IG up if you want, close everything else
 
 ### 2FA
 
-Fortunately, you're familiar with this because I require you to be :blush:. This is "Two factor authentication" or "2FA" or "Multi factor authentication" or "MFA". They all mean the same thing.
+This is "Two factor authentication" or "2FA" or "Multi factor authentication" or "MFA". They all mean the same thing.
 
 * I use two MFA apps on my phone
-  * Authy 
-    * I default to this most of the time unless it's not available
+  * BitWarden
+    * I default to this most of the time
   * Microsoft Authenticator
-* Some accounts require a US phone number for SMS, so use the me@fake.com Skype account phone number
-  * If you see that they sent it to phone number 555-555-5555, then that is the Skype account
+* Some accounts require a US phone number for SMS, so use 267-719-3557 (my Google Voice number)
 * Remember to avoid using SMS for 2FA if it's possible, because it's less safe
-* Keep using Authy for your own accounts when you can
 
 ### Cloud Subscriptions
 
 SUPER IMPORTANT because these bills can get big quickly
 
-* Microsoft Azure + Power BI - to delete sponsorship subscription and transfer resources – contact Michelle and have her walk you through it. The phone number is listed on [this page](https://docs.microsoft.com/en-us/microsoft-365/admin/get-help-support?view=o365-worldwide&tabs=online#phone-support): +1-800-865-9408
-* Amazon Web Services charges 5 cents a month and is hooked up to our Amazon account, so you can just leave it forever
-* Appveyor – Billy Dominguez will know what to do. Please get in touch with him at some point because if this bill isn't paid each year, then the tests will fail in our repository.
+* None
 
 ### Online Storage & Photo Backups
 
 **Photo Backups**
 
-We both have this installed on our phones [backup service] is used to backup all our pictures to the cloud, it uploads them automatically so you probably don't know it is there. It is important though as [backup service] contains all of our memories. 
+Google Photos is used to backup all our pictures to the cloud; it uploads them automatically.
 
-* You can login to the web version [here]() details are in KeePass
+* You can login to the web version [here]() details are in BitWarden
 * From here you can download individual pictures, change the password to the account or download all of the photos to your computer if you wish.
 * Don't just close the account though as you will lose the photos.  
 
@@ -135,6 +127,7 @@ We both have this installed on our phones [backup service] is used to backup all
 
 We have some documents stored on [cloud storage provider], I also have lots of things stored there that you might want to view, TV License receipts, renewal documents for the car things like that. 
 
+* Google Drive – $10/mo. Needed for Google Photos + Google Drive contents, of which there are lots. Don't cancel this until you determine that the data can be trashed.
 * You can login to the web version [here]() details are in KeePass
 * From here you can download individual files, change the password etc. 
 * Even if you don't use this it is a good idea to keep it as some of the files you might need in the future.
@@ -145,6 +138,7 @@ Like the above online storage and backups we have a NAS, you know the little bla
 
 This little black box stores all of our backups that we don't want going to the internet, all of our electronic documents, our films our digital life is on here so it is **IMPORTANT** that If you decide that you don't want to keep it contact [person] who will help you wipe it (delete everything), whatever you do don't just throw it in the bin.
 
+* Backblaze –
 * You can login to the web portal [here]() details are in KeePass
 * From here you can view/download individual files, change the password etc. 
 * If you login to my computer details also in KeePass you will see a folder called [folder name] this is everything on the NAS, you can navigate through it just like any other folder on the computer. 
