@@ -1,10 +1,10 @@
 # End-of-life disaster response
 
-If you are reading this, I, like Tommy, have disappeared to Froopyland and I miss you already. There's a lot here, but the first order of business is telling people.
+If you are reading this, I have turned into worm food and I miss you already. There's a lot here, but the first order of business is telling people.
 
-Contact the following friends and family directly before announcing it on Twitter. Open up my laptop, create a note, then copy/paste it to:
+Contact the following friends and family directly before announcing it. Open up my laptop, create a note, then copy/paste it to:
 
-* iMessages: Blake, Brother, Brother 2
+* 
 * WhatsApp: Aaron
 * Facebook: Dad, dad’s phone number is in my phone too
 * Skype: Peter
@@ -20,44 +20,40 @@ This section covers the topics that will help you access my emails and website l
 
 ### Emails
 
-As you know, I primarily use me@fake.com. You can login through my phone or laptop. Keep my phone and laptop until you haven't used them for one year just in case a 2FA issue comes up.
+As you know, I primarily use kev.wells@gmail.com. You can login through my phone or desktop. Keep my phone and desktop until you haven't used them for one year just in case a 2FA issue comes up.
 
-* me@fake.com – password is stored in xyz
-* this@that.com – all emails from this get forwarded to me@fake.com
+* kev.wells@gmail.com – password is stored in BitWarden
+* purebishop@hotmail.com - password is stored in BitWarden
+* kevin@kwellsphoto.com – all emails from this get forwarded to kev.wells@gmail.com
+* kevin@vctapped.com – all emails from this get forwarded to kev.wells@gmail.com
 
-Add me@fake.com to your phone, actually, since that's where we get our shipping alerts.
+Add kev.wells@gmail.com to your phone, actually, since that's where we get our shipping alerts.
 
 ### Domains
 
 * All of my domains are managed via Google Domains and CloudFlare
   * Google Domains auto renews and needs an updated Credit Card to keep going
-* xyz.io – Keep this paid via Google Domains or transfer to Danielle Smith 
-* fakblog.com – Transfer to Blake
+* chinobbq.com – Keep this paid via Google Domains or transfer to ?
+* kwellsphoto.com – Keep this paid via Google Domains or transfer to ?
+* vctapped.com – Keep this paid via Google Domains or transfer to ?
+
+### Initial Passwords
+
+* Desktop account PIN: `1643`
+* Phone account PIN: `17102218`
 
 ### Password Managers
 
-You know how to use this since we've incorporated it into our lives.
-
-* KeePass. My master password is (printed, no script): _________________________________________
+* BitWarden. My master password is (printed, no script): `Honda-Civic-1982!`
 
 ### Subscriptions
 
-* YouTube – keep this for commercial free viewing on Roku or cancel then subscribe from your own account
 * Twitch.tv – this is cancelled but recheck and also close my Twitch account
-* Discord – cancel this
-* Amazon Prime + my “Channels” that you don’t watch. Keep Amazon Prime, cancel my true crime channels.
-* Netflix
-* Hulu
+* Amazon Prime - + my “Channels” that you don’t watch. Keep Amazon Prime, cancel my true crime channels.
 * Spotify
   * Just keep this account since it’s a family account
-* NordVPN
-  * It's unlikely you'll need this, just cancel
-* Apple Subscriptions
-  * Open Apple iPhone
-  * Click Settings
-  * Click the big thing at the top with my name
-  * Click Subscriptions
-  * Delete anything you don’t want like Wondery+, Twitter, or Apple News
+* PIA VPN
+  * It's unlikely you'll need this unless you want to keep Kevflix running, just cancel
 
 ### Homelabs
 
